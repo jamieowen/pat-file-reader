@@ -1,0 +1,20 @@
+{
+  "name": "pat-file-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PatReader.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/PatReader.test.js"
+  },
+  "author": "Jamie Owen <hello@jamieowen.com> (=)",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "dependencies": {
+    "minimist": "^1.1.1"
+  }
+}
